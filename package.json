@@ -1,0 +1,16 @@
+{
+  "name": "hello-world-vuejs",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "vue": "^3.3.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "@vitejs/plugin-vue": "^5.0.0"
+  }
+}
