@@ -2,6 +2,9 @@
   "name": "hello-world-vuejs",
   "version": "1.0.0",
   "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
   "dependencies": {
     "vue": "^3.3.0"
   },
